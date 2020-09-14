@@ -9,6 +9,10 @@
 전에 수업하면서 작성한 코드를 확인해보니 HTML과 CSS를 삽입하는 과정에서 name 속성을 지워버려서 폼 데이터(form data) 참조를 제대로 할 수 없었다.
 
 따라서, <textarea>와 <input>부분에 name="description"/"title"을 추가해주니 제대로 작동하였다.
+ <img src="https://user-images.githubusercontent.com/53109557/93036655-7c987d00-f67b-11ea-8248-673f07a6126f.jpg">
+<img src="https://user-images.githubusercontent.com/53109557/93036731-a2be1d00-f67b-11ea-9201-218fbe83de2f.jpg">
+
+
 
 ✔<3. 참고할 만한 내용>
 HTML코드는 해석이 쉽게 되는 반면, PHP코드는 해석하는데 많은 시간이 걸리고 심지어 해석이 안되는 코드들도 존재하였다. 
