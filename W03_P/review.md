@@ -11,7 +11,7 @@ index.php파일에서 delete가 되도록 하려면 update처럼 링크(a태그)
 <p>
 따라서 이를 프로그램상에서 인식 할 수 있는 작은 따옴표로 바꿔주니 제대로 작동하였다.
  <p><img src=https://user-images.githubusercontent.com/53109557/93537259-0733f180-f986-11ea-841c-b0eaba353b7d.JPG
-" width = "300" height="300">
+" width = "600" height="300">
 <img src="https://user-images.githubusercontent.com/53109557/93537353-3b0f1700-f986-11ea-87f9-b10375380949.JPG">
 
 
