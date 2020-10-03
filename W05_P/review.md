@@ -8,9 +8,9 @@
   1) 오타
   2) sudo를 작성하지 않고 바로 vi 명령어를 입력했으나 root의 권한을 부여받지 못하여서 vi 에디터를 이용하여 글을 작성 및 수정이 불가했다.
   
-✔<3. 참고할 만한 내용>
- sudo를 사용하는 이유
- 관련 링크: https://m.blog.naver.com/PostView.nhn?blogId=asdf2017&logNo=221497120163&proxyReferer=https:%2F%2Fwww.google.com%2F
+✔<3. 참고할 만한 내용><br>
+  sudo를 사용하는 이유<br>
+  관련 링크: https://m.blog.naver.com/PostView.nhn?blogId=asdf2017&logNo=221497120163&proxyReferer=https:%2F%2Fwww.google.com%2F
 
 ✔<4. 회고>
 
