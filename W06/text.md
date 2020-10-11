@@ -15,19 +15,23 @@ push -> 원격 저장소에 넣음
 그래서 내 이메일 주소를 넣으려 했지만 fatal: remote origin already exists 라고 떠서
 git remote rm origin 명령어를 이용해서 삭제해주었다.
 
-참고 사이트: http://blog.naver.com/PostView.nhn?blogId=angelkim88&logNo=221565694228&parentCategoryNo=&categoryNo=51&viewDate=&isShowPopularPosts=false&from=postView
-
+참고 사이트: 
+http://blog.naver.com/PostView.nhn
+blogId=angelkim88&logNo=221565694228&parentCategoryNo=&category
+No=51&viewDate=&isShowPopularPosts=false&from=postView
+```
 
 그러나 , 깃허브에 들어와 보니 공동작업자에 교수님과 함께 되었다....(이 부분은 미해결)
- <img src="https://user-images.githubusercontent.com/53109557/95683311-70c1bb80-0c25-11eb-81e4-e47af5f6dc50.JPG" width=230 heigh =230>
- 
+<img src="https://user-images.githubusercontent.com/53109557/95683311-70c1bb80-0c25-11eb-81e4-e47af5f6dc50.JPG" width=230 heigh =230>
+
+``` 
 ◾VMware 창 닫음
 SSH설치 후 아무생각 없이 창을 닫아서 VScode를 이용하는데 문제가 생겼었다. 그래서다시 SSH를재실행 하였고 상태 또한 확인해다.
 
 ◾잘못된 경로로 파일 작성
 W6폴더 안에 파일을 작성해야하는데 다른 경로로 작성했더니 당연히 오류가 났다... 
+```
 <img src="https://user-images.githubusercontent.com/53109557/95683535-e2e6d000-0c26-11eb-948e-5e4bf849a550.JPG"  width=300 heigh =100>
- ```
   --------------------------------------------------------------------------------------------------------------------------------------------
  ```
  ✔ 수정내용
