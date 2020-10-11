@@ -19,8 +19,6 @@ git remote rm origin 명령어를 이용해서 삭제해주었다.
 http://blog.naver.com/PostView.nhn
 blogId=angelkim88&logNo=221565694228&parentCategoryNo=&category
 No=51&viewDate=&isShowPopularPosts=false&from=postView
-```
-
 그러나 , 깃허브에 들어와 보니 공동작업자에 교수님과 함께 되었다....(이 부분은 미해결)
 ``` 
 <img src="https://user-images.githubusercontent.com/53109557/95683311-70c1bb80-0c25-11eb-81e4-e47af5f6dc50.JPG" width=230 heigh =230>
