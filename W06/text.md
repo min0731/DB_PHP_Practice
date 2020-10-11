@@ -12,9 +12,9 @@ push -> 원격 저장소에 넣음
 실습을 따라하던 중 'git remote add origin "git주소"' 부분에서 교수님과 똑같이 교수님 이메일 주소를 넣었다...
 그래서 내 이메일 주소를 넣으려 했지만 fatal: remote origin already exists 라고 떠서<bold> git remote rm origin 명령어를 이용해서 삭제해주었다.
 참고 사이트: http://blog.naver.com/PostView.nhn?blogId=angelkim88&logNo=221565694228&parentCategoryNo=&categoryNo=51&viewDate=&isShowPopularPosts=false&from=postView<br>
-
-그러나 , 깃허브에 들어와 보니 공동작업자에 교수님과 함께 되었다....(이 부분은 미해결)
- <img src="https://user-images.githubusercontent.com/53109557/95683311-70c1bb80-0c25-11eb-81e4-e47af5f6dc50.JPG" width=100 heigh =100>
+<br>
+그러나 , 깃허브에 들어와 보니 공동작업자에 교수님과 함께 되었다....(이 부분은 미해결)<br>
+ <img src="https://user-images.githubusercontent.com/53109557/95683311-70c1bb80-0c25-11eb-81e4-e47af5f6dc50.JPG" width=150 heigh =150>
 
 
 ✔<4. 회고>
