@@ -7,7 +7,9 @@ oracle의 경우 클라이언트와 서버 사이에 '리스너'라는 것이 �
 
 2. 문제가 발생하거나 고민한 내용 + 해결 과정
 ```
-없음
+<img src ='https://user-images.githubusercontent.com/53109557/98570216-87c3fe00-22f6-11eb-9b76-e31d7645a52c.JPG'>
+
+<img src='https://user-images.githubusercontent.com/53109557/98570220-898dc180-22f6-11eb-8717-e75230bbd00b.JPG'>
 ```
 
 3. 참고 내용
